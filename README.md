@@ -8,6 +8,13 @@
 *italics are fun*
 
     List of items
--   Item number 1
+- Item number 1
 - Item number 2
 - Item number 3
+
+<br>
+List of items part 2
+
+1. Baker
+2. Mayfield
+3. Browns
